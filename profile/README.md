@@ -1,9 +1,9 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/eo-cqrs/.github/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/eo-cqrs)](https://github.com/cqrs)
 
-Here are the components around [EO-CQRS] framework() including:
+Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) framework including:
 
-* [/eo-kafka](https://www.github.com/eo-cars/eo-kafka) is Kafka Producers and consumers for working with Apache Kafka message broker
+* [/eo-kafka](https://github.com/eo-cqrs/eo-kafka) is Kafka Producers and consumers for working with Apache Kafka message broker
 
 Read about the [EO](https://www.elegantobjects.org) design principles
 
