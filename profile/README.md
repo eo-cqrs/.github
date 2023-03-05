@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/eo-cqrs/.github/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/eo-cqrs)](https://github.com/cqrs)
 
-OOP Event sourcing & CQRS framework, tries to reduce the complexity of microservices architecture.
+OOP Event sourcing & CQRS framework, that tries to reduce the complexity of microservices architecture.
 <br>
 <br>
 Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) framework including:
