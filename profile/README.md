@@ -6,6 +6,8 @@ OOP Event sourcing & CQRS framework, that tries to reduce the complexity of micr
 <br>
 Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) framework including:
 
+* [/eo-qce](https://github.com/eo-cqrs/eo-qce) is collection of objects for handling Queries, Commands and Events
+
 * [/eo-kafka](https://github.com/eo-cqrs/eo-kafka) is Kafka Producers and consumers for working with Apache Kafka
   message broker
 
