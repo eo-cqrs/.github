@@ -3,7 +3,18 @@
 
 OOP Event sourcing & CQRS framework, that tries to reduce the complexity of microservices architecture.
 <br>
+Built on top of the 4 principles of clean development process:
+
+`1. Simplicity is the virtue`
 <br>
+`2. No monolithic repositories`
+<br>
+`3. No manual deployments`
+<br>
+`4. Master branch is read-only`
+
+<br>
+
 Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) framework including:
 
 * [/eo-qce](https://github.com/eo-cqrs/eo-qce) is collection of objects for handling Queries, Commands and Events
