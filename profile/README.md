@@ -1,9 +1,13 @@
+[![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
+[![DevOps By Rultor.com](https://www.rultor.com/b/eo-cars)](https://www.rultor.com/p/eo-cqrs)
+[![We recommend IntelliJ IDEA](https://www.elegantobjects.org/intellij-idea.svg)](https://www.jetbrains.com/idea/)
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/eo-cqrs/.github/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/eo-cqrs)](https://github.com/cqrs)
 
-OOP Event sourcing & CQRS framework, that tries to reduce the complexity of microservices architecture.
+OOP components, which try to reduce the complexity of microservices architecture.
 <br>
-Built on top of the 4 principles of clean development process:
+Built on top of the 4 principles of a clean development process:
 
 `1. Simplicity is the virtue`
 <br>
@@ -15,12 +19,14 @@ Built on top of the 4 principles of clean development process:
 
 <br>
 
-Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) framework including:
+Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) including:
 
-* [/eo-qce](https://github.com/eo-cqrs/eo-qce) is collection of objects for handling Queries, Commands and Events
+* [/eo-events](https://github.com/eo-cqrs/eo-events) is a collection of objects for handling Events
 
 * [/eo-kafka](https://github.com/eo-cqrs/eo-kafka) is Kafka Producers and consumers for working with Apache Kafka
   message broker
+
+* [/xfake](https://github.com/eo-cqrs/xfake) is an XML In-Memory Storage for elegant Mocking
 
 Read about the [EO](https://www.elegantobjects.org) design principles, by which we are inspired.
 
