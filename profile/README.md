@@ -7,15 +7,21 @@
 
 OOP components, which try to reduce the complexity of microservices architecture.
 <br>
-Built on top of the 4 principles of a clean development process:
+Built on top of the strong Software Development Process best practices and Object-Oriented principles:
 
-`1. Simplicity is the virtue`
+`1. Simplicity is a virtue`
 <br>
 `2. No monolithic repositories`
 <br>
 `3. No manual deployments`
 <br>
 `4. Master branch is read-only`
+<br>
+`5. No DI Containers`
+<br>
+`6. All objects are immutable`
+<br>
+`7. Logic is scaling horizontally among objects`
 
 <br>
 
