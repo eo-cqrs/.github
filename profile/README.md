@@ -3,7 +3,7 @@
 [![We recommend IntelliJ IDEA](https://www.elegantobjects.org/intellij-idea.svg)](https://www.jetbrains.com/idea/)
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/eo-cqrs/.github/blob/master/LICENSE)
-[![Stars](https://img.shields.io/github/stars/eo-cqrs)](https://github.com/cqrs)
+[![Stars](https://img.shields.io/github/stars/eo-cqrs)](https://github.com/eo-cqrs)
 
 OOP components, which try to reduce the complexity of microservices architecture.
 <br>
