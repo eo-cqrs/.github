@@ -27,7 +27,7 @@ Built on top of the strong Software Development Process best practices and Objec
 
 Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) including:
 
-* [/eo-events](https://github.com/eo-cqrs/eo-events) is a collection of objects for handling Events
+* [/eokson](https://github.com/eo-cqrs/eokson) is a collection of objects for JSON manipulation
 
 * [/eo-kafka](https://github.com/eo-cqrs/eo-kafka) is Kafka Producers and consumers for working with Apache Kafka
   message broker
