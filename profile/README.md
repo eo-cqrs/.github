@@ -11,18 +11,17 @@ Built on top of the strong Software Development Process best practices and Objec
 
 `1. Simplicity is a virtue`
 <br>
-`2. No monolithic repositories`
+`2. All objects are immutable`
 <br>
-`3. No manual deployments`
+`3. No DI Containers`
 <br>
-`4. Master branch is read-only`
+`4. Logic is scaling horizontally among objects`
 <br>
-`5. No DI Containers`
+`5. Master branch is read-only`
 <br>
-`6. All objects are immutable`
+`6. No monolithic repositories`
 <br>
-`7. Logic is scaling horizontally among objects`
-
+`7. No manual deployments`
 <br>
 
 Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) including:
