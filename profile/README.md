@@ -23,13 +23,17 @@ Built on top of the strong Software Development Process best practices and Objec
 <br>
 `7. No manual deployments`
 <br>
+`8. Quality of code controlled automatically`
+<br>
 
 Here are the components around [EO-CQRS](https://eo-cqrs.github.io/.github) including:
 
-* [/eokson](https://github.com/eo-cqrs/eokson) is a collection of objects for JSON manipulation
-
 * [/eo-kafka](https://github.com/eo-cqrs/eo-kafka) is Kafka Producers and consumers for working with Apache Kafka
   message broker
+
+* [/cmig](https://github.com/eo-cqrs/cmig) is a schema migration tool for Apache Cassandra
+
+* [/eokson](https://github.com/eo-cqrs/eokson) is a collection of objects for JSON manipulation
 
 * [/xfake](https://github.com/eo-cqrs/xfake) is an XML In-Memory Storage for elegant Mocking
 
